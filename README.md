@@ -20,7 +20,7 @@ I work remote-first, love low-structure environments, and try to stay involved i
 
 Find me
 
-🌐 thenanox.me
-💼 linkedin.com/in/fernando-rodriguez-garcia
-📄 resume.thenanox.me
-📬 thenanox@gmail.com
+- 🌐 thenanox.me
+- 𝕏  @thenanox_me
+- 💼 linkedin.com/in/fernando-rodriguez-garcia
+- 📬 thenanox@gmail.com
