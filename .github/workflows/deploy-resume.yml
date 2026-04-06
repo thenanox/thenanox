@@ -47,7 +47,7 @@ jobs:
       - name: Build resume app
         run: pnpm --filter @workspace/resume run build
         env:
-          BASE_PATH: /
+          BASE_PATH: /thenanox/
           PORT: 3000
           NODE_ENV: production
 

@@ -12,3 +12,9 @@ id = "O8aSjYhWo8iM_M7lNBG9T"
 uri = "file://scripts/output/fernando-rodriguez-resume.docx"
 type = "word_document"
 title = "Fernando Rodriguez Garcia — Resume (DOCX)"
+
+[[outputs]]
+id = "ErPqhbZxxmiqaOHDpgECL"
+uri = "file://profile-readme.md"
+type = "text"
+title = "GitHub Profile README"
