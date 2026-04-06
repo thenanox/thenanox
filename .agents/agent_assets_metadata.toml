@@ -1,0 +1,14 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "YzWybs0zYcAMgc8_WLI8U"
+uri = "file://scripts/output/fernando-rodriguez-resume.pdf"
+type = "pdf"
+title = "Fernando Rodriguez Garcia — Resume (PDF)"
+
+[[outputs]]
+id = "O8aSjYhWo8iM_M7lNBG9T"
+uri = "file://scripts/output/fernando-rodriguez-resume.docx"
+type = "word_document"
+title = "Fernando Rodriguez Garcia — Resume (DOCX)"

@@ -1,0 +1,103 @@
+{
+  "name": "Fernando Rodriguez Garcia",
+  "headline": "Head of Engineering  |  Backend Expert (Go / Java / JS)  |  Blockchain & AI",
+  "contact": {
+    "email": "thenanox@gmail.com",
+    "phone": "",
+    "location": "Madrid, Spain",
+    "linkedin": "linkedin.com/in/fernando-rodriguez-garcia",
+    "website": "thenanox.me"
+  },
+  "summary": "Engineering leader with 14+ years building scalable distributed systems, blockchain platforms, and AI-driven products in fintech and regulated markets. Head of Engineering at Adhara, leading Ethereum-based digital token infrastructure for central banks while driving company-wide AI initiatives from research to production.",
+  "roles": [
+    {
+      "title": "Head of Engineering",
+      "company": "Adhara",
+      "location": "Madrid, Spain",
+      "startDate": "Jan 2026",
+      "endDate": "Present",
+      "bullets": [
+        "Lead engineering organization across strategy, hiring, and delivery of AI-driven systems and scalable blockchain platforms for central banks and financial institutions.",
+        "Define engineering processes, architectural standards, and technical strategy; bridge engineering, product, and business stakeholders to ensure sustainable, high-quality delivery.",
+        "Drive company-wide AI initiatives from research and experimentation through to production-grade systems."
+      ]
+    },
+    {
+      "title": "Principal Engineer (prev. Technical Lead)",
+      "company": "Adhara",
+      "location": "Madrid, Spain",
+      "startDate": "May 2019",
+      "endDate": "Feb 2026",
+      "bullets": [
+        "Architected next-generation Ethereum and deposit token platforms enabling real-time, multi-currency settlement and cross-border payments for regulated financial markets.",
+        "Led cross-functional engineering teams across Spain and South Africa, ensuring scalability, resilience, and security of production-grade DLT software."
+      ]
+    },
+    {
+      "title": "Co-founder & CTO",
+      "company": "YONDR",
+      "location": "Madrid, Spain",
+      "startDate": "May 2019",
+      "endDate": "Present",
+      "bullets": [
+        "Architected scalable backend infrastructure and Android/iOS API layer for a mobile-first events platform, enabling seamless native integrations.",
+        "Designed an asynchronous job distribution system in Java and RabbitMQ, dynamically scaling workers based on real-time load."
+      ]
+    },
+    {
+      "title": "Head of Backend Development",
+      "company": "Copado Solutions",
+      "location": "Madrid, Spain",
+      "startDate": "Mar 2018",
+      "endDate": "May 2019",
+      "bullets": [
+        "Led backend engineering integrating cloud infrastructure with Salesforce to automate CI/CD pipelines and release management for enterprise clients.",
+        "Mentored a multidisciplinary backend team; drove adoption of automated testing, significantly reducing deployment times and increasing release frequency."
+      ]
+    },
+    {
+      "title": "Full Stack Engineer",
+      "company": "Grupo GFT",
+      "location": "Madrid, Spain",
+      "startDate": "Jan 2016",
+      "endDate": "Mar 2018",
+      "bullets": [
+        "Developed PSD2-compliant open banking API platform for BBVA and Bankinter, enabling secure third-party integrations and regulatory compliance."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Languages",
+      "items": "Go, Java, JavaScript, TypeScript, PHP"
+    },
+    {
+      "category": "Blockchain & Web3",
+      "items": "Ethereum, Smart Contracts, DLT, Digital Tokens, Deposit Tokens"
+    },
+    {
+      "category": "AI / ML",
+      "items": "LangChain, AI-driven platforms, Prompt Engineering"
+    },
+    {
+      "category": "Backend & Infra",
+      "items": "REST APIs, Distributed Systems, RabbitMQ, Spring, Microservices, Docker"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ingeniero Informático Superior (M.Eng. equivalent), Computer Engineering",
+      "school": "Universidad de Murcia",
+      "location": "Murcia, Spain",
+      "dates": "2005 – 2011"
+    }
+  ],
+  "spacing": {
+    "sectionGap": 10.84516129032258,
+    "roleGap": 6.896774193548386,
+    "bulletGap": 2.448387096774193,
+    "lineHeight": 13.474193548387097,
+    "bodyFontSize": 10,
+    "headlineFontSize": 10
+  }
+}
