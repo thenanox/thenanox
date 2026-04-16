@@ -7,7 +7,7 @@ What I'm into right now
 - AI-native products — leading AI initiatives at Adhara and obsessing over what's actually useful vs. what's hype
 - Tokenized finance — deposit tokens, cross-border settlement, and the slow but real rewiring of how money moves
 - Threevial — an AI-powered trivia game I built as a side project. Made it to the finals of #vibejam. Go play it.
-- YONDR — cofounded this, still CTO. Events platform. Different world from DeFi, equally interesting problems.
+- YONDR — social fitness platform. Cofounded this, still CTO.
 
 A bit more context
 
