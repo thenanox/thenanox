@@ -1,6 +1,6 @@
 {
   "name": "Fernando Rodriguez Garcia",
-  "headline": "Head of Engineering  |  Backend Expert (Go / Java / JS)  |  Blockchain & AI",
+  "headline": "CTO @ Adhara  |  Backend Expert (Go / Java / JS)  |  Blockchain & AI",
   "contact": {
     "email": "thenanox@gmail.com",
     "phone": "",
@@ -8,18 +8,19 @@
     "linkedin": "linkedin.com/in/fernando-rodriguez-garcia",
     "website": "thenanox.me"
   },
-  "summary": "Engineering leader with 14+ years building scalable distributed systems, blockchain platforms, and AI-driven products in fintech and regulated markets. Head of Engineering at Adhara, leading Ethereum-based digital token infrastructure for central banks while driving company-wide AI initiatives from research to production.",
+  "summary": "Engineering leader with 15+ years building scalable distributed systems, blockchain platforms, and AI-driven products in fintech and regulated markets. CTO at Adhara, co-owning technology vision and execution for digital money and settlement infrastructure for central banks and financial institutions, while driving the company's AI strategy from experimentation to production.",
   "roles": [
     {
-      "title": "Head of Engineering",
+      "title": "CTO",
       "company": "Adhara",
       "location": "Madrid, Spain",
       "startDate": "Jan 2026",
       "endDate": "Present",
       "bullets": [
-        "Lead engineering organization across strategy, hiring, and delivery of AI-driven systems and scalable blockchain platforms for central banks and financial institutions.",
-        "Define engineering processes, architectural standards, and technical strategy; bridge engineering, product, and business stakeholders to ensure sustainable, high-quality delivery.",
-        "Drive company-wide AI initiatives from research and experimentation through to production-grade systems."
+        "Co-own company-wide technology strategy and lead the engineering organization, from platform architecture and product engineering to delivery in highly regulated financial environments.",
+        "Drive Adhara's AI strategy: embedding AI across engineering and shipping AI-enabled capabilities from experimentation to production-grade systems.",
+        "Lead the modernization of the core platform for scalable, resilient, and secure settlement and tokenized money infrastructure; stay hands-on in architecture, Go backends, and Ethereum/DLT design.",
+        "Own the technical narrative with customers, partners, and regulators (due diligence, security posture, architecture) and partner with the CEO and business leadership to align technology investment with strategy."
       ]
     },
     {
@@ -93,10 +94,10 @@
     }
   ],
   "spacing": {
-    "sectionGap": 10.84516129032258,
-    "roleGap": 6.896774193548386,
-    "bulletGap": 2.448387096774193,
-    "lineHeight": 13.474193548387097,
+    "sectionGap": 8.244615384615383,
+    "roleGap": 5.163076923076922,
+    "bulletGap": 1.581538461538461,
+    "lineHeight": 13.04076923076923,
     "bodyFontSize": 10,
     "headlineFontSize": 10
   }
