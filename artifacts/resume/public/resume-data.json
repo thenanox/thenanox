@@ -6,7 +6,7 @@
     "phone": "",
     "location": "Madrid, Spain",
     "linkedin": "linkedin.com/in/fernando-rodriguez-garcia",
-    "website": "thenanox.me"
+    "website": ""
   },
   "summary": "Engineering leader with 15+ years building scalable distributed systems, blockchain platforms, and AI-driven products in fintech and regulated markets. CTO at Adhara, co-owning technology vision and execution for digital money and settlement infrastructure for central banks and financial institutions, while driving the company's AI strategy from experimentation to production.",
   "roles": [
@@ -65,6 +65,16 @@
       "bullets": [
         "Developed PSD2-compliant open banking API platform for BBVA and Bankinter, enabling secure third-party integrations and regulatory compliance."
       ]
+    },
+    {
+      "title": "Full Stack Architect",
+      "company": "ADESIS Netlife",
+      "location": "Madrid, Spain",
+      "startDate": "Oct 2012",
+      "endDate": "Dec 2015",
+      "bullets": [
+        "Designed and implemented the GAIA backend architecture for Mapfre (Spring / Java / AngularJS)."
+      ]
     }
   ],
   "skills": [
@@ -78,7 +88,7 @@
     },
     {
       "category": "AI / ML",
-      "items": "LangChain, AI-driven platforms, Prompt Engineering"
+      "items": "AI-driven platforms, Prompt Engineering"
     },
     {
       "category": "Backend & Infra",
@@ -94,11 +104,11 @@
     }
   ],
   "spacing": {
-    "sectionGap": 8.244615384615383,
-    "roleGap": 5.163076923076922,
-    "bulletGap": 1.581538461538461,
-    "lineHeight": 13.04076923076923,
-    "bodyFontSize": 10,
-    "headlineFontSize": 10
+    "sectionGap": 7,
+    "roleGap": 4,
+    "bulletGap": 1,
+    "lineHeight": 12.5,
+    "bodyFontSize": 9.5,
+    "headlineFontSize": 9.5
   }
 }

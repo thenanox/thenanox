@@ -80,7 +80,7 @@ function getResumeData(): Omit<ResumeData, "spacing"> {
       phone: "",
       location: "Madrid, Spain",
       linkedin: "linkedin.com/in/fernando-rodriguez-garcia",
-      website: "thenanox.me",
+      website: "",
     },
     summary:
       "Engineering leader with 15+ years building scalable distributed systems, blockchain platforms, and AI-driven products in fintech and regulated markets. " +
@@ -142,6 +142,16 @@ function getResumeData(): Omit<ResumeData, "spacing"> {
           "Developed PSD2-compliant open banking API platform for BBVA and Bankinter, enabling secure third-party integrations and regulatory compliance.",
         ],
       },
+      {
+        title: "Full Stack Architect",
+        company: "ADESIS Netlife",
+        location: "Madrid, Spain",
+        startDate: "Oct 2012",
+        endDate: "Dec 2015",
+        bullets: [
+          "Designed and implemented the GAIA backend architecture for Mapfre (Spring / Java / AngularJS).",
+        ],
+      },
     ],
     skills: [
       { category: "Languages", items: "Go, Java, JavaScript, TypeScript, PHP" },
@@ -151,7 +161,7 @@ function getResumeData(): Omit<ResumeData, "spacing"> {
       },
       {
         category: "AI / ML",
-        items: "LangChain, AI-driven platforms, Prompt Engineering",
+        items: "AI-driven platforms, Prompt Engineering",
       },
       {
         category: "Backend & Infra",
